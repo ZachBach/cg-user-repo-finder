@@ -21,7 +21,7 @@
 
 To install necessary dependencies, run the following command:
 
-    npm i
+    npm i from the src directory not root
 
 ## Usage
 
